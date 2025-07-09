@@ -32,6 +32,3 @@ This project uses unsupervised machine learning techniques to segment mall custo
 - `mall_segmentation_project.ipynb` → Code Notebook
 - `Final_Mall_Customer_Segments.csv` → Final result
 - `requirements.txt` → List of dependencies
-
-## 🤝 Author
-- Built by [Your Name](https://github.com/yourusername)
